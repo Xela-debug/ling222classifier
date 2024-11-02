@@ -8,6 +8,7 @@ As seen below:
 Context every new line
 
 {Line number} Underlined current word & rest of sentence
+
 Classification
 
 Returns a dictionary of words which were classified
